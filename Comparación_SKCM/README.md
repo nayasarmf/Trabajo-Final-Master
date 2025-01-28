@@ -1,0 +1,1 @@
+Mediante los códigos presentados en esta carpeta se obtuvieron los nombres oficiales de los genes confirmados tanto sobreexpresados (positivos) como subexpresados (negativos), genes en común entre cBioPortal y GEPIA, para SKCM. Adicionalmente, se utilizó un código de comparación para asegurar que no hay repetidos entre ambas listas de genes.
