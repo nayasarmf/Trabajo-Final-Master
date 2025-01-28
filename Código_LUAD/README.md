@@ -1,0 +1,1 @@
+Mediante los códigos presentados en esta carpeta se obtuvieron los genes sobreexpresados y subexpresados para el Adenocarcinoma de Pulmón (LUAD), además de utilizar la API de NCBI para sus nombres oficiales.
