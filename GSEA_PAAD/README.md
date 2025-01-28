@@ -1,0 +1,1 @@
+Mediante los códigos presentados se llevaron a cabo un análisis de enriquecimiento funcional de términos de ontología génica (GO) y el enriquecimiento de rutas metabólicas (KEGG) para los genes sobreexpresados y subexpresados de PAAD.
