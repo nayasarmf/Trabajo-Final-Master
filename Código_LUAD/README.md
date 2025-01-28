@@ -1,1 +1,1 @@
-Mediante los códigos presentados en esta carpeta se obtuvieron los genes sobreexpresados y subexpresados para el Adenocarcinoma de Pulmón (LUAD), además de utilizar la API de NCBI para sus nombres oficiales.
+Mediante los códigos presentados en esta carpeta, utilizando información de cBioPortal, se obtuvo la lista de genes sobreexpresados y subexpresados para el Adenocarcinoma de Pulmón (LUAD). Además de utilizar la API de NCBI para sus identificarlos por sus nombres oficiales.
