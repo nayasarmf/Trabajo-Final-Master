@@ -1,0 +1,1 @@
+Mediante los códigos presentados en esta carpeta, utilizando información de cBioPortal, se obtuvo la lista de genes sobreexpresados y subexpresados para el Adenocarcinoma de Páncreas (PAAD). Además de utilizar la API de NCBI para identificarlos por sus nombres oficiales.
