@@ -1,1 +1,1 @@
-Mediante los códigos presentados en esta carpeta se obtuvieron los nombres oficiales de los genes confirmados, genes en común entre cBioPortal y GEPIA, para LUAD.
+Mediante los códigos presentados en esta carpeta se obtuvieron los nombres oficiales de los genes confirmados tanto sobreexpresados (positivos) como subexpresados (negativos), genes en común entre cBioPortal y GEPIA, para LUAD. Adicionalmente, se utilizó un código de comparación para asegurar que no hay repetidos entre ambas listas de genes.
